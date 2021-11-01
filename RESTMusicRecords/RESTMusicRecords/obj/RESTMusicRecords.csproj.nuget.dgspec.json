@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicol\\Source\\Repos\\jakobln\\ExerciseRESTJavaScriptBACKEND\\RESTMusicRecords\\RESTMusicRecords\\RESTMusicRecords.csproj": {}
+    "C:\\Users\\nicol\\source\\repos\\jakobln\\ExerciseRESTJavaScriptBACKEND\\RESTMusicRecords\\RESTMusicRecords\\RESTMusicRecords.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicol\\Source\\Repos\\jakobln\\ExerciseRESTJavaScriptBACKEND\\RESTMusicRecords\\RESTMusicRecords\\RESTMusicRecords.csproj": {
+    "C:\\Users\\nicol\\source\\repos\\jakobln\\ExerciseRESTJavaScriptBACKEND\\RESTMusicRecords\\RESTMusicRecords\\RESTMusicRecords.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicol\\Source\\Repos\\jakobln\\ExerciseRESTJavaScriptBACKEND\\RESTMusicRecords\\RESTMusicRecords\\RESTMusicRecords.csproj",
+        "projectUniqueName": "C:\\Users\\nicol\\source\\repos\\jakobln\\ExerciseRESTJavaScriptBACKEND\\RESTMusicRecords\\RESTMusicRecords\\RESTMusicRecords.csproj",
         "projectName": "RESTMusicRecords",
-        "projectPath": "C:\\Users\\nicol\\Source\\Repos\\jakobln\\ExerciseRESTJavaScriptBACKEND\\RESTMusicRecords\\RESTMusicRecords\\RESTMusicRecords.csproj",
+        "projectPath": "C:\\Users\\nicol\\source\\repos\\jakobln\\ExerciseRESTJavaScriptBACKEND\\RESTMusicRecords\\RESTMusicRecords\\RESTMusicRecords.csproj",
         "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicol\\Source\\Repos\\jakobln\\ExerciseRESTJavaScriptBACKEND\\RESTMusicRecords\\RESTMusicRecords\\obj\\",
+        "outputPath": "C:\\Users\\nicol\\source\\repos\\jakobln\\ExerciseRESTJavaScriptBACKEND\\RESTMusicRecords\\RESTMusicRecords\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNet.WebApi.Cors": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"

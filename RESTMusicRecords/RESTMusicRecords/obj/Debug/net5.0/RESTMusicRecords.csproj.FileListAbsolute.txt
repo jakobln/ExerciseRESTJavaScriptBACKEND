@@ -27,3 +27,9 @@ C:\Users\nicol\Source\Repos\jakobln\ExerciseRESTJavaScriptBACKEND\RESTMusicRecor
 C:\Users\nicol\Source\Repos\jakobln\ExerciseRESTJavaScriptBACKEND\RESTMusicRecords\RESTMusicRecords\obj\Debug\net5.0\ref\RESTMusicRecords.dll
 C:\Users\nicol\Source\Repos\jakobln\ExerciseRESTJavaScriptBACKEND\RESTMusicRecords\RESTMusicRecords\obj\Debug\net5.0\RESTMusicRecords.pdb
 C:\Users\nicol\Source\Repos\jakobln\ExerciseRESTJavaScriptBACKEND\RESTMusicRecords\RESTMusicRecords\obj\Debug\net5.0\RESTMusicRecords.genruntimeconfig.cache
+C:\Users\nicol\source\repos\jakobln\ExerciseRESTJavaScriptBACKEND\RESTMusicRecords\RESTMusicRecords\bin\Debug\net5.0\System.Web.Cors.dll
+C:\Users\nicol\source\repos\jakobln\ExerciseRESTJavaScriptBACKEND\RESTMusicRecords\RESTMusicRecords\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\nicol\source\repos\jakobln\ExerciseRESTJavaScriptBACKEND\RESTMusicRecords\RESTMusicRecords\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\nicol\source\repos\jakobln\ExerciseRESTJavaScriptBACKEND\RESTMusicRecords\RESTMusicRecords\bin\Debug\net5.0\System.Web.Http.Cors.dll
+C:\Users\nicol\source\repos\jakobln\ExerciseRESTJavaScriptBACKEND\RESTMusicRecords\RESTMusicRecords\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\nicol\source\repos\jakobln\ExerciseRESTJavaScriptBACKEND\RESTMusicRecords\RESTMusicRecords\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
